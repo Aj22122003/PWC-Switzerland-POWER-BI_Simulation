@@ -1,8 +1,7 @@
 # PwC Switzerland - Power BI Job Simulation
 
-![PwC Logo](https://github.com/Gtshivanand/PwC-Switzerland---Power-BI-Job-Simulation/blob/main/PwC-PricewaterhouseCoopers.jpg)
 
-This repository contains a comprehensive collection of Power BI projects completed as part of the **PwC Switzerland - Power BI Job Simulation** through [**Forage**](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg). This simulation provides hands-on experience in solving real-world business challenges such as customer retention, call center performance, and diversity & inclusion initiatives using Power BI.
+This repository contains a comprehensive collection of Power BI projects completed as part of the **PwC Switzerland - Power BI Job Simulation** through . This simulation provides hands-on experience in solving real-world business challenges such as customer retention, call center performance, and diversity & inclusion initiatives using Power BI.
 By participating in this simulation, I developed key competencies in:
 
 - Data visualization and dashboard creation
@@ -72,7 +71,7 @@ This simulation consists of three key business scenarios:
 
 This dashboard focuses on analyzing customer retention for a telecom company. It provides actionable insights to enhance customer loyalty and reduce churn rates.
 
-<img src="https://github.com/Gtshivanand/PwC-Switzerland---Power-BI-Job-Simulation/blob/main/Task%201/Images/Call%20Center%20Trends%20Analysis.png"/>
+
 
 ### Key Insights:
 
@@ -103,8 +102,7 @@ This dashboard focuses on analyzing customer retention for a telecom company. It
 
 This dashboard was developed to assist PhoneNow's Call Center Manager in tracking and improving call center performance by monitoring customer satisfaction, call volume, and agent efficiency.
 
-<img src="https://github.com/Gtshivanand/PwC-Switzerland---Power-BI-Job-Simulation/blob/main/Task%202/Images/Customer%20Churn%20Exploratory%20Analysis.png"/>
-<img src="https://github.com/Gtshivanand/PwC-Switzerland---Power-BI-Job-Simulation/blob/main/Task%202/Images/Customer%20Risk%20Analysis.png"/>
+
 
 ### Key Insights:
 
@@ -133,8 +131,7 @@ This dashboard was developed to assist PhoneNow's Call Center Manager in trackin
 
 PwC Switzerland has been tasked to assist a telecom client in advancing gender balance within their executive management. Despite efforts, progress is stagnant, prompting a need for our expertise in diversity and inclusion, which we regard as essential for business success and innovation. The goal is to transform the inclusive culture into tangible results, addressing the practical hurdles to truly harness the benefits of a diverse workforce.
 
-<img src="https://github.com/Gtshivanand/PwC-Switzerland---Power-BI-Job-Simulation/blob/main/Task%203/Images/Diversity%20%26%20Inclusive%20Analysis.png"/>
-<img  src="https://github.com/Gtshivanand/PwC-Switzerland---Power-BI-Job-Simulation/blob/main/Task%203/Images/Employee%20Overview.png"/>
+
 
 ### Key Insights:
 
@@ -159,13 +156,6 @@ PwC Switzerland has been tasked to assist a telecom client in advancing gender b
 
 ---
 
-## 📄 Certification:
-
-
-
-[PwC Switzerland Power BI Job Simulation](https://github.com/Gtshivanand/PwC-Switzerland---Power-BI-Job-Simulation/blob/main/PwC%20Switzerland%20Power%20BI%20JOB%20Simulation.pdf)
-
-
 ## 📈 Conclusion
 
 Through the **PwC Switzerland - Power BI Job Simulation**, I gained hands-on experience in delivering data-driven solutions for real-world business challenges. This project has equipped me with practical skills in **data visualization**, **analytical thinking**, and **business intelligence**, enhancing my ability to provide actionable insights and drive informed decision-making.
@@ -183,9 +173,8 @@ Thank you for visiting my repository! If you have any questions or feedback, fee
 
 I’d love to hear your thoughts, feedback, and suggestions! Feel free to connect with me:
 
- LinkedIn: [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
  
- Email: shivanandnashi97@gmail.com
+ Email: kutarmareajinkya52@gmail.com
 
 
 Looking forward to connecting and exchanging ideas!
@@ -203,4 +192,4 @@ This project is intended for educational purposes as part of a virtual job simul
 
 ---
 
-Feel free to explore the repository and connect with me on [**LinkedIn**](https://www.linkedin.com/in/shivanand-s-nashi-79579821a) for further collaboration and insights!
+
